@@ -89,6 +89,3 @@ for report in data:
 
 print("----- Part II -----")
 print(f"Number of safe reports: {safe_reports} out of {len(data):,}")
-
-
-
